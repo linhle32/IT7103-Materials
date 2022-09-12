@@ -1,0 +1,7 @@
+subject_id,gender,ever_married,work_type,Residence_type
+10001,Male,Yes,Private,Urban
+10003,Female,Yes,Private,Urban
+10004,Female,Yes,Self-employed,Rural
+10006,Male,Yes,Private,Rural
+10007,Female,No,Private,Urban
+10008,Female,Yes,Private,Urban
