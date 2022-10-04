@@ -8,3 +8,5 @@ Learning modules are as follows
 02 - Working with Numpy <br>
 03 - Working with Pandas <br>
 04 - End-to-end data analytics project <br>
+05 - Data preprocessing <br>
+06 - Classification and performance measurement  <br>
