@@ -10,3 +10,4 @@ Learning modules are as follows
 04 - End-to-end data analytics project <br>
 05 - Data preprocessing <br>
 06 - Classification and performance measurement  <br>
+07 - Regression and performance measurement	 <br>
