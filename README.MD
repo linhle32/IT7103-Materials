@@ -12,3 +12,4 @@ Learning modules are as follows
 06 - Classification and performance measurement  <br>
 07 - Regression and performance measurement	 <br>
 08 - Logistic regression and SoftMax regression	 <br>
+09 - Linear regression, polynomial regression, and regularized regression <br>
