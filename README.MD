@@ -14,3 +14,4 @@ Learning modules are as follows
 08 - Logistic regression and SoftMax regression	 <br>
 09 - Linear regression, polynomial regression, and regularized regression <br>
 10 - Support vector machine <br>
+11 - Decision tree, random forest, and gradient boosting model <br>
