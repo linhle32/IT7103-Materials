@@ -15,3 +15,4 @@ Learning modules are as follows
 09 - Linear regression, polynomial regression, and regularized regression <br>
 10 - Support vector machine <br>
 11 - Decision tree, random forest, and gradient boosting model <br>
+12 - Neural Network <br>
