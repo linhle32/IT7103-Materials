@@ -4,15 +4,17 @@ This repository include notebooks, data, and lecture notes for IT7103 - Practica
 
 Learning modules are as follows
 
-01 - Python programming review	<br>
-02 - Working with Numpy <br>
-03 - Working with Pandas <br>
-04 - End-to-end data analytics project <br>
-05 - Data preprocessing <br>
-06 - Classification and performance measurement  <br>
-07 - Regression and performance measurement	 <br>
-08 - Logistic regression and SoftMax regression	 <br>
-09 - Linear regression, polynomial regression, and regularized regression <br>
-10 - Support vector machine <br>
-11 - Decision tree, random forest, and gradient boosting model <br>
-12 - Neural Network <br>
+|Module | Contents |
+|---|---|
+|01 | Python programming review	|
+|02 | Working with Numpy |
+|03 | Working with Pandas |
+|04 | End-to-end data analytics project |
+|05 | Data preprocessing |
+|06 | Classification and performance measurement  |
+|07 | Regression and performance measurement	 |
+|08 | Logistic regression and SoftMax regression	 |
+|09 | Linear regression, polynomial regression, and regularized regression |
+|10 | Support vector machine |
+|11 | Decision tree, random forest, and gradient boosting model |
+|12 | Neural Network |
